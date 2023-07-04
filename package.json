@@ -1,0 +1,23 @@
+{
+  "name": "laboratorio-da-ana",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ananopaisdojavascript/laboratorio-da-ana.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ananopaisdojavascript/laboratorio-da-ana/issues"
+  },
+  "homepage": "https://github.com/ananopaisdojavascript/laboratorio-da-ana#readme",
+  "devDependencies": {
+    "jest": "^29.6.0"
+  }
+}
